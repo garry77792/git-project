@@ -1,0 +1,5 @@
+# folder logs комментарии
+logs/
+
+# txt-files
+docs/*.txt
